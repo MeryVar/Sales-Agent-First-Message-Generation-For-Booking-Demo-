@@ -16,15 +16,12 @@ This project implements an AI-powered sales agent that leverages foundation mode
 ## Requirements
 
 - Python 3.x
-- Required packages (see requirements.txt)
+- Required packages 
 
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+2. Install dependencies
 
 ## Usage
 
