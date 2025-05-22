@@ -1,4 +1,4 @@
-# Sales Agent FM Demo
+# Sales Agent First Message Demo
 
 A Python-based demonstration project for a Sales Agent using Foundation Models.
 
